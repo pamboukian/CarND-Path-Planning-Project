@@ -1,6 +1,18 @@
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
    
+ ### Brief Description
+
+The code using in `main.cpp` I implemented consists of four main parts.
+
+- Setting flags
+- Detecting  using sensor fusion data
+- Judgement
+- Trajectory generation
+
+And detail comment is in `main.cpp` .
+
+   
 ### Simulator.
 You can download the Term3 Simulator which contains the Path Planning Project from the [releases tab (https://github.com/udacity/self-driving-car-sim/releases/tag/T3_v1.2).  
 
